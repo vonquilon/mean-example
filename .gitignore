@@ -1,0 +1,8 @@
+node_modules
+public/lib
+.bowerrc
+.idea
+.tern-project
+.jshintrc
+.project
+/config/env/development.js
